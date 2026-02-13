@@ -1,0 +1,2 @@
+# Financial-Performance-Budget-Analysis-Dashboard-Power-BI
+This project focuses on building an end-to-end Financial Performance Dashboard using Power BI to provide clear insights into revenue, expenses, profitability, and budget vs actual performance. The dashboard helps management monitor financial health, track trends, and identify cost drivers through interactive and visually intuitive reports.
